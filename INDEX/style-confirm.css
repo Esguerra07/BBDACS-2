@@ -1,0 +1,16 @@
+body{
+    background:linear-gradient(
+        45deg,
+        
+        rgba(15, 32, 39, 0.637),
+        rgba(32, 58, 67, 0.596),
+        rgba(44, 83, 100, 0.596)
+    ),
+     url(background/Municipal.jpg) center center fixed;
+    background-size: cover;
+  }
+  form{
+    position: relative;
+    box-shadow: 0 5px 15px rgba(0,0,2);
+    overflow: hidden;
+  }
